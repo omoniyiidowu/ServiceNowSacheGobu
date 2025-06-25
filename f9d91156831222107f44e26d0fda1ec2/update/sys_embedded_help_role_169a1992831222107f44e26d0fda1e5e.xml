@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_cdltd_sachegobu.admin" name="x_cdltd_sachegobu.admin">569a1992831222107f44e26d0fda1e5d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 23:33:25</sys_created_on>
+        <sys_id>169a1992831222107f44e26d0fda1e5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>569a1992831222107f44e26d0fda1e5d</sys_name>
+        <sys_package display_value="SacheGobu Tracker" source="x_cdltd_sachegobu">f9d91156831222107f44e26d0fda1ec2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SacheGobu Tracker">f9d91156831222107f44e26d0fda1ec2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_169a1992831222107f44e26d0fda1e5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 23:33:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
